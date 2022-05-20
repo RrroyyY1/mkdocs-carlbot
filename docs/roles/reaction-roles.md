@@ -1,7 +1,7 @@
 # Reaction Roles
 
 !!! tip
-    Deleted messages are also cleared from the database. Pin the reaction role message to make it immune to purging.
+    Ты мальчик или девочка? Если мальчик нажми на ♂️, а если девочка тогда нажми на ♀️.
 
 ### RR Management
 
